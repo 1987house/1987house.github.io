@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lewis Sibanda - IT Professional Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            text-align: center;
+            margin-top: 20px;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 10px;
+        }
+        .contact {
+            text-align: center;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Lewis Sibanda</h1>
+        <p>Aspiring IT Professional with a passion for servers and data centers.</p>
+    </header>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About Me</a>
+        <a href="#skills">Skills</a>
+        <a href="#experience">Experience</a>
+        <a href="#education">Education</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="home">
+        <h2>Home</h2>
+        <p>Hello! I'm Lewis Sibanda, an aspiring IT professional with a passion for working with servers. I am eager to land a role in the data center industry where I can continue to learn and grow.</p>
+    </section>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am currently an Information Technology student at Oregon Institute of Technology, aiming to graduate in 2025. I'm actively seeking my first breakthrough in the IT field. My training includes Python, SQL, Networking Pro, Hardware and Software A+, and Linux Red Hat. I am also preparing to take the CompTIA and VMware certifications.</p>
+        <p>Outside of my academic pursuits, I enjoy public speaking and volunteer at the Open Bible Church's food bank in my community. My previous work experience includes managing a restaurant in Pretoria, South Africa, and working as a Direct Support Professional (DSP) in Oregon for the past two years.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Python Programming</li>
+            <li>SQL Database Management</li>
+            <li>Networking Pro</li>
+            <li>Hardware and Software A+</li>
+            <li>Linux Red Hat</li>
+            <li>Public Speaking</li>
+            <li>Project Management</li>
+        </ul>
+    </section>
+
+    <section id="experience">
+        <h2>Experience</h2>
+        <h3>Direct Support Professional (DSP)</h3>
+        <p>Oregon, USA | 2022 - Present</p>
+        <p>Providing care and support to individuals with developmental disabilities, ensuring their well-being and helping them achieve their personal goals.</p>
+
+        <h3>Restaurant Manager</h3>
+        <p>Pretoria, South Africa | Before 2022</p>
+        <p>Managed daily operations of a restaurant, including staff management, customer service, and financial oversight.</p>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <h3>Oregon Institute of Technology</h3>
+        <p>Bachelor's in Information Technology | Expected Graduation: 2025</p>
+        <p>Relevant Coursework: Python, SQL, Networking, Linux Red Hat, Hardware and Software A+</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>If you'd like to get in touch, please feel free to reach out:</p>
+        <p>Email: lewissibanda@example.com</p>
+        <p>Phone: (555) 123-4567</p>
+        <p>Location: Gresham, OR, USA</p>
+    </section>
+
+</body>
+</html>
